@@ -1,0 +1,1 @@
+This PCB (ref. YYD-CEL028) is over mainboard connecting some pins to SD card reader, heated bed (T1), TFT and other stuff.
