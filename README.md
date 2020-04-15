@@ -1,2 +1,5 @@
 # AnycubicChironUpgrade
-Documentation and other stuff about how upgrade Anycubic Chiron 3D printer from 8 bits to 32 bits electronics
+
+Documentation and other stuff about how upgrade Anycubic Chiron 3D printer from 8 bits to 32 bits electronics, including upgrade stepper drivers to TMC2208.
+
+Work still in progress...
