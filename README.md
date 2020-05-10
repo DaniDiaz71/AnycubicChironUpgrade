@@ -10,4 +10,6 @@ Step 02 - Done!
 
 Step 03 - Done! 
 
-Step in progress - Serial communications between TFT and Trigorilla reverse engineering, to know which commands display sends to Trigorilla and which Trigorilla sends to display. With this information I think i'm going to be able to adapt Marlin firmware to use it with SKR v1.3 and TFT Anycubic display.
+Step 04 - Done! 
+
+Step in progress - Adding stock display functions to Marlin 2.0.x, there are a lot of work done by dkoch83 at https://github.com/dkoch83/Marlin-1.1.9_Anycubic_Chiron.
