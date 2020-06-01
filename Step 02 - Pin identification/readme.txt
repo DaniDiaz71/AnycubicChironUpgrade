@@ -5,4 +5,4 @@ In this files are information about non standar pins (TFT, SD, HUB), in particul
 Chiron HUB SD TFT.svg - Inkscape file with pins from and to Trigorilla board at HUB PCB.
 Chiron Extruder Box PINOUT.svg - Inkscape file with pins at hotend box.
 New HUB SD TFT PCB to SKR v1.3.fzz - Fritzing file with an small PCB to adapt HUB PCB to SKR v1.3. It's a simple way extract signals...
-
+SKR V1.3 to Anycubic Chiron PINs Assignamet.svg - Inkscape file, pin assingment at AVR v1.3.
